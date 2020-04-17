@@ -1,6 +1,6 @@
 # react-blog-search
 
-React Blog 
+https://machikolacey.github.io/react-blog-search/
 
 <h2>Tech Stack</h2>
 <ul>
