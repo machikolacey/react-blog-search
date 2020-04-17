@@ -7,3 +7,5 @@ https://machikolacey.github.io/react-blog-search/
 <li>React</li>
 <li>Axis</li>
 </ul>
+
+<img src ="Blog.png" style="width:100%;" />
